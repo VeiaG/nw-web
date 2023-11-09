@@ -1,0 +1,27 @@
+{
+  "short_name": "NorwWood",
+  "name": "NorwWood v1.0 ",
+  "description": "Веб-застосунок для полегшення створення таблиць з модулями",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#171717",
+  "background_color": "#242428"
+}
